@@ -8,7 +8,7 @@
         <version>3.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ma.oumaimaezafa</groupId>
+    <groupId>ma.enset</groupId>
     <artifactId>SpringBatchTP</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Batch-Processing-avec-Spring-Batch</name>
